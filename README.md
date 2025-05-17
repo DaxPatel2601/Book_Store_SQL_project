@@ -296,11 +296,11 @@ Calculate the current stock level for each book after orders.
 
 ---
 
-## 📅 Ddataset
+## 📅 Dataset
 
-Book.CSV --> 
-Customer.CSV -->
-Orders.CSV -->
+Book.CSV --> https://github.com/DaxPatel2601/Book_Store_SQL_project/blob/main/Dataset/Books.csv    
+Customer.CSV --> https://github.com/DaxPatel2601/Book_Store_SQL_project/blob/main/Dataset/Customers.csv    
+Orders.CSV --> https://github.com/DaxPatel2601/Book_Store_SQL_project/blob/main/Dataset/Orders.csv     
 
 ## 🚀 Summary
 
